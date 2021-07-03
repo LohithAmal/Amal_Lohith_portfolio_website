@@ -119,10 +119,10 @@ a{
   border:2px var(--text-color-1) solid;
   padding: 10px 30px;
   border-radius: 5px;
+  
 }
 .buttonn:hover{
-  background-color: var(--brand-color);
-  
+
 }
 
 /* about styling */
