@@ -59,7 +59,7 @@ a{
 
 /* navbar styling END */
 .hero-const{
-  background: url(../image/shutterstock_372125761.jpg) no-repeat center center/cover;
+  background: url(../image/ucon.jpg) no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: var(--background-color);
