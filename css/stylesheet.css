@@ -182,10 +182,11 @@ a{
 .skill{
   display: flex;
   
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   text-align: center;
   flex-wrap: wrap;
+  
   background-color:var(--background-color);
 }
 .skill-content h2{
@@ -309,5 +310,8 @@ padding: 10px 0;
   .about-me .row{
     flex-direction: column;
     background-color: var(--background-color2);
+  }
+  .skill-column{
+    flex-direction: column;
   }
 }
