@@ -23,5 +23,5 @@
    
    GITHUB repositiry link: https://github.com/LohithAmal/Amal_Lohith_portfolio_website
    
-   Live URL link:   
+   Live URL link:   https://lohithamal.github.io/Amal_Lohith_portfolio_website/
 
