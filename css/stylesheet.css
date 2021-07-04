@@ -58,7 +58,12 @@ a{
 /* navbar mobile */
 
 /* navbar styling END */
-
+.hero-const{
+  background: url(../image/shutterstock_372125761.jpg) no-repeat center center/cover;
+  height: 100vh;
+  position: relative;
+  color: var(--background-color);
+}
 .hero{
   background: url(../image/hero_img.jpg) no-repeat center center/cover;
   height: 100vh;
@@ -290,6 +295,7 @@ padding: 10px 0;
   .navbar{
     flex-direction: column;
     padding-bottom: 10px 30px; 
+    
   
   }
   .navbar a{
@@ -299,9 +305,13 @@ padding: 10px 0;
    
     color: var(--background-color);
   }
+  .navbar ul li{
+    border-bottom: 2px var(--brand-color) dotted;
+  }
   .navbar ul{
     flex-wrap: nowrap;
-    /* flex-direction: column; */
+    flex-direction: column;
+    
   }
   .hero{
     height: 150vh;
@@ -312,6 +322,7 @@ padding: 10px 0;
   .about-me .row{
     flex-direction: column;
     background-color: var(--background-color2);
+   
   }
   .skill-column{
     flex-direction: column;
