@@ -14,4 +14,4 @@
   
   ## screenshots
   ### hero page
-![heropage]()  
+![heropage](image/hero_page.JPG)  
