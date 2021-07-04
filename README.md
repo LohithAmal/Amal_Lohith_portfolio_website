@@ -12,8 +12,12 @@
   >> https://www.pinterest.ca/search/pins/?q=mobile%20design&rs=typed&term_meta[]=mobile%7Ctyped&term_meta[]=design%7Ctyped
   >> https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
   
+ 
   ## screenshots
   ### hero page
 ![heropage](image/hero_page.JPG)  
 ![aboutme&myskill](image/About_me_and_my_skills.JPG)
 ![MYWORKS](image/my_works.JPG)
+
+##LIVE LINKS
+
