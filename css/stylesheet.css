@@ -303,6 +303,9 @@ padding: 10px 0;
   .hero{
     height: 150vh;
   }
+  .hero .content{
+    height: 100%;
+  }
   .about-me .row{
     flex-direction: column;
     background-color: var(--background-color2);
