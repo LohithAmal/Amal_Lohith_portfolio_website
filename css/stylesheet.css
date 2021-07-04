@@ -290,6 +290,7 @@ padding: 10px 0;
   .navbar{
     flex-direction: column;
     padding-bottom: 10px 30px; 
+  
   }
   .navbar a{
     color: var(--brand-color);
@@ -299,7 +300,8 @@ padding: 10px 0;
     color: var(--background-color);
   }
   .navbar ul{
-    flex-direction: column;
+    flex-wrap: nowrap;
+    /* flex-direction: column; */
   }
   .hero{
     height: 150vh;
