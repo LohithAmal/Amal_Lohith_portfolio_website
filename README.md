@@ -1,7 +1,7 @@
 # Amal_Lohith_portfolio_website
 
 ## Portfolio Description
-   This website will showcase all my works and skills that i accomplish during the journey of develop/designer career.
+   This website will showcase all my works and skills that i accomplish during the journey of Web developer/designer career.
 ### Website LOGO
     Logo represent the box of creativity enclosed with an 'A' stands for Amal &  'L' for Lohith.
 
